@@ -11,6 +11,6 @@ A platform that streamlines course management, student enrollment, faculty assig
 
 ## Installation
 ```sh
-git clone <repository_url>
+git clone https://github.com/Justine-Tabor/university-course-management-system.git
 cd university-course-management-system
 
